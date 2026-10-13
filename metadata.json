@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix CareTrail - Unified Patient View",
+  "description": "Integration-aware clinical history workspace with source-linked provenance, intra-hospital data access, and consent controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
